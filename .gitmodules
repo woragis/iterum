@@ -1,9 +1,9 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:woragis/iterum-crm.git
+	url = git@github.com:woragis/iterum-frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:woragis/iterum-api-next.git
+	url = git@github.com:woragis/iterum-backend.git
 [submodule "landing-page"]
 	path = landing-page
 	url = git@github.com:woragis/iterum-landing-page.git
